@@ -3,7 +3,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: MA Industrial/Organizational Psychology
+  - course: MA Industrial/Organizational Psychology 
     institution: Hofstra University
   - course: BBA Business Administration
     institution: Hofstra University
