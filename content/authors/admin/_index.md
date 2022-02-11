@@ -11,6 +11,7 @@ highlight_name: true
 interests:
 - People Analytics
 - Data Visualization
+- Employee Engagement
 - R Programming
 organizations:
 - #name: Stanford University
