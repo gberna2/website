@@ -26,7 +26,7 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/gilcbernard
 
 - icon: github
   icon_pack: fab
