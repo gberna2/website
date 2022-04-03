@@ -2,7 +2,7 @@
 bio: ""
 education:
   courses:
-  - course: MA Industrial/Organizational 
+  - course: MA Industrial/Organizational Psychology
     institution: Hofstra University
   - course: BBA Business Administration
     institution: Hofstra University
