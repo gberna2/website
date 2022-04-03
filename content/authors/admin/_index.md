@@ -12,7 +12,7 @@ interests:
 - People Analytics
 - Data Visualization
 - Employee Engagement
-- R Programming
+- #Rstats
 organizations:
 - #name: Stanford University
   url: https://www.stanford.edu/
