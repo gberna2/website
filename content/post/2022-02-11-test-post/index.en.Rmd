@@ -2,7 +2,7 @@
 title: Easy Text Analytics
 author: R package build
 date: '2022-02-11'
-slug: test-post
+slug: Easy Text Analytics
 categories: []
 tags: []
 subtitle: ''
