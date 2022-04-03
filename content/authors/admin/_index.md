@@ -38,6 +38,6 @@ superuser: true
 title: Gil Bernard
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Industrial-Organizational psychologist with a focus on people analytics and data visualization.  My interests are centered around joining data with organizational theory to tell stories.  Passionate about technology, statistics and R programming.
 
 
