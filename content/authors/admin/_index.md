@@ -38,6 +38,6 @@ superuser: true
 title: Gil Bernard
 ---
 
-Industrial-Organizational psychologist with a focus on people analytics and data visualization.  My interests are centered around joining data with organizational theory to tell stories.  Passionate about technology, statistics and R programming.
+Industrial-Organizational psychologist with a focus on people analytics.  My interests are centered around joining data with organizational theory to tell stories.  Passionate about technology, statistics, R programming and data visualization.
 
 
