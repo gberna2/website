@@ -16,3 +16,22 @@ image:
   preview_only: no
 projects: []
 ---
+
+```{r echo='FALSE'}
+library(tidyverse)
+
+
+```
+
+```{r }
+s<-mtcars
+data.frame(s)
+
+```
+
+```{r}
+ggplot(s, aes(disp, hp))+
+geom_point()
+
+```
+
